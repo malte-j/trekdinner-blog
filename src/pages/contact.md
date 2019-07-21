@@ -9,7 +9,7 @@ map: >-
 ---
 Wir treffen uns jeden dritten Freitag im Monat im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg
 
-| Datum  | Anlass              |
-| ------ | ------------------- |
-| 16.08. | Trekdinner          |
-| 17.08. | Botanika goes Space |
+| Datum  | Anlass                              |
+| ------ | ----------------------------------- |
+| 16.08. | Trekdinner                          |
+| 17.08. | Botanika goes Space Bremen reloaded |
