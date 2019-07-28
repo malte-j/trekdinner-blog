@@ -7,7 +7,7 @@ map: >-
   width="100%" height="100%" frameborder="0" style="border:0"
   allowfullscreen></iframe>
 ---
-Wir treffen uns jeden dritten Freitag im Monat im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über trekdinner.oldenburg@gmail.com oder über unsere facebook-Seite <https://www.facebook.com/trekdinner.oldenburg.de/>
+Wir treffen uns jeden dritten Freitag im Monat im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über trekdinner.oldenburg@gmail.com.
 
 | Datum  | Anlass                              |
 | ------ | ----------------------------------- |
