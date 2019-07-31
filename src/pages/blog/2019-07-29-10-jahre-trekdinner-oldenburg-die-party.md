@@ -4,7 +4,7 @@ title: 10 Jahre Trekdinner Oldenburg - die Party
 date: 2019-07-29T21:06:47.706Z
 featuredimage: /img/trekdinner-oldenburg.jpg
 ---
-10 Jahre Trekdinner Oldenburg - und kein bisschen leise. Der Fürstensaal im Jugendstil bot den idealen Rahmen für eine Feier die es so vorher noch nicht gegeben hat. Mit alten und neuen Freunden aus allen
+10 Jahre Trekdinner Oldenburg - und kein bisschen leise. Der Fürstensaal im Jugendstil bot den idealen Rahmen für eine Feier die es so vorher noch nicht gegeben hat. Mit alten und neuen Freunden aus dem gesamten Norddeutschen Raum hatten wir ein excellentes Gemeinschaftsdinner, von dem wir auch Monate später noch immer gerne reden. Vielen Dank an alle Gäste, die sich auf den teilweise doch sehr weiten Weg "in ein unbekanntes Land" gemacht haben, die neugierig genug waren, um mit uns diesen wundervollen Abend zu gestalten. Einen besonderen Dank gebührt dem Bremer Trekdinner, die uns zu diesem Jubiläum eine karitative Spende in Höhe von € 130,- überreicht haben, die wir gerne an die [Tabaluga-Stiftung](https://tabalugakinderstiftung.de/) weitergegeben haben.
 
 ![Freunde von fern ...](/img/eine-große-familie-1-.jpg "Eine große Familie 1")
 
