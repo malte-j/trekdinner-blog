@@ -13,5 +13,5 @@ Wir treffen uns jeden dritten Freitag im Monat im [Best-Western-Hotel Heide](htt
 | ------ | ----------------------------------- |
 | 16.08. | Trekdinner                          |
 | 17.08. | Botanika goes Space Bremen reloaded |
-| 07.09. | Tierpark Thüle Charity-Event        |
+| 07.09. | Tierpark Thüle Cosplay Charity-Event|
 | 20.09. | Trekdinner                          |
