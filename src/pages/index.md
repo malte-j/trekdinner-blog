@@ -7,7 +7,8 @@ about:
     Seit 2009 sind wir DER Anlaufpunkt für Science-Fiction-Begeisterte aus
     Oldenburg und umzu und mittlerweile einer der größten und aktivsten
     Trekdinner in Niedersachsen. "To boldly go ..." ist bei uns Programm, IDIC,
-    oder auf Deutsch UMUK wird bei uns gelebt. Natürlich ist dadurch ist die
+    oder auf Deutsch UMUK wird bei uns gelebt und deshalb sind wir viel größer,
+    als unsere äußere Erscheinung vermuten lässt. Natürlich ist dadurch ist die
     Macht mit uns, denn wir reden nicht nur sondern sind auch aktiv für die gute
     Sache im Einsatz. Überzeuge Dich selber davon und schau einfach bei uns
     rein.
