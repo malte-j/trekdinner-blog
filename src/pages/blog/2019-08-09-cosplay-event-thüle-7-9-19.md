@@ -4,4 +4,4 @@ title: 'Cosplay-Event Thüle, 7.9.19'
 date: 2019-08-09T19:25:26.466Z
 featuredimage: /img/logo-cosplay-_002_.jpg
 ---
-Dieses Mal sammeln wir mit dem Tier- und Freizeitpark Thüle, dem [Coastal Hammer](https://www.501st.de/viewpage.php?page_id=68) der 501st German Garrison und dem [Oldenburg Otaku Treff OOT](https://www.facebook.com/OldenburgerOtakuTreff/) Spenden zugunsten des [Kinderhospiz Löwenherz](https://www.kinderhospiz-loewenherz.de/) in Syke sowie des [Kinder- und Jugendhospizes Joshuas Engelreich](https://www.kinderhospizwilhelmshaven.de/) in Wilhelmshaven. Freut Euch auf einen ereignisreichen Tag.
+Dieses Mal sammeln wir mit dem [Tier- und Freizeitpark Thüle](http://tier-freizeitpark.de/index.php), dem [Coastal Hammer](https://www.501st.de/viewpage.php?page_id=68) der 501st German Garrison und dem [Oldenburg Otaku Treff OOT](https://www.facebook.com/OldenburgerOtakuTreff/) Spenden zugunsten des [Kinderhospiz Löwenherz](https://www.kinderhospiz-loewenherz.de/) in Syke sowie des [Kinder- und Jugendhospizes Joshuas Engelreich](https://www.kinderhospizwilhelmshaven.de/) in Wilhelmshaven. Freut Euch auf einen ereignisreichen Tag.
