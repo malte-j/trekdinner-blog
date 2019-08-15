@@ -39,7 +39,7 @@ export default () => {
   return (
     <div className={css.posts}>
       {edges.map(({node})=>(        
-        <div className={css.post} key={node.fields.slug}>
+        <div className={css.inside} key={node.fields.slug}>
           <Link to={node.fields.slug} > 
             <Img fluid={node.frontmatter.featuredimage.childImageSharp.fluid} className={css.thumbnail}/>
           </Link>

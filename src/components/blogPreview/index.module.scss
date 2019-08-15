@@ -1,31 +1,46 @@
-.post {
+.inside {
+  color: white;
   position: relative;
-  margin: 1.25em;
-  // width: 100%;
+  width: 100%;
+  overflow: hidden;
+  
+  &:first-child {
+    // margin-right: .8em;
+  }
+
+  margin: .8em 0 .8em;
 
   .thumbnail {
     position: relative;
-    // height: 100%;
-    // display: block;
-    // width: 100%;
-    > {
-      max-width: 100%;  
+    width: 100%;
+    >div {
+      padding-bottom: 60%!important;
     }
   }
-
+  
   .title {
     position: absolute;
-    // z-index: 1;
-    // right: 0;
-    // width: 100%;
-    padding: .4em;
     bottom: 0;
     right: 0;
-    text-shadow: 0px 0px 3px  rgba(0, 0, 0, 0.3),
-    0px 1px 12px rgba(0, 0, 0, 0.15);
+    padding: 0.6em;
+    margin: 0;
+    font-size: 1.2em;
     color: white;
-    font-size: 1.4em;
+    z-index: 0;
     text-decoration: none;
+
+    &::after {
+      content: "";
+      position: absolute;
+      width: 120%;
+      height: 120%;
+      bottom:0;
+      left: 0;
+      z-index: -1;
+      background: rgba(0,0,0,0.8);
+      filter: blur(60px);	
+    }
+    
   }
 }
 
@@ -37,7 +52,7 @@
 		width: 90vw;
 		margin-bottom: 1.25em;
   }
-  .post {
+  .inside {
     margin: .5em;
     width: 100%;
   }
