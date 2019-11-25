@@ -9,12 +9,22 @@ map: >-
 ---
 Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über <mailto:trekdinner.oldenburg@gmail.com>.
 
-| Datum         | Anlass                       |
-| ------------- | ---------------------------- |
-| 20.12.        | Trekdinner - Weihnachtsfeier |
-| 17.01.        | Trekdinner                   |
-| 21.02.        | Trekdinner                   |
-| 20.03.        | Trekdinner                   |
-| 17.04.        | Trekdinner                   |
-| 15.05.        | Trekdinner                   |
-| 29.05.-01.06. | Trekdinner goes Fedcon       |
+| Datum         | Anlass                                     |
+| ------------- | -------------------------------------------|
+| 20.12.        | Trekdinner - Weihnachtsfeier               |
+| 17.01.        | Trekdinner                                 |
+| 21.02.        | Trekdinner                                 |
+| 20.03.        | Trekdinner                                 |
+| 17.04.        | Trekdinner                                 |
+| 15.05.        | Trekdinner                                 |
+| 29.05.-01.06. | Trekdinner auf Tour, Fedcon 2020           |
+| 19.06.        | Trekdinner                                 |
+| 17.07.        | Trekdinner                                 |
+| 01./02.08.    | Trekdinner auf Tour, PA51, Kiel            |
+| 08./09.08.    | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
+| 21.08.        | Trekdinner                                 |
+| 05./06.09.    | Trekdinner auf Tour, Botanika goes Space   |
+| 18.09.        | Trekdinner                                 |
+| 16.10.        | Trekdinner                                 |
+| 20.11.        | Trekdinner                                 |
+| 18.12.        | Trekdinner-Weihnachtsfeier                 |
