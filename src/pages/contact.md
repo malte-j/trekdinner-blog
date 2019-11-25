@@ -11,20 +11,20 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 
 | Datum         | Anlass                                     |
 | ------------- | -------------------------------------------|
-| 20.12.        | Trekdinner - Weihnachtsfeier               |
-| 17.01.        | Trekdinner                                 |
-| 21.02.        | Trekdinner                                 |
-| 20.03.        | Trekdinner                                 |
-| 17.04.        | Trekdinner                                 |
-| 15.05.        | Trekdinner                                 |
-| 29.05.-01.06. | Trekdinner auf Tour, Fedcon 2020           |
-| 19.06.        | Trekdinner                                 |
-| 17.07.        | Trekdinner                                 |
-| 01./02.08.    | Trekdinner auf Tour, PA51, Kiel            |
-| 08./09.08.    | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
-| 21.08.        | Trekdinner                                 |
-| 05./06.09.    | Trekdinner auf Tour, Botanika goes Space   |
-| 18.09.        | Trekdinner                                 |
-| 16.10.        | Trekdinner                                 |
-| 20.11.        | Trekdinner                                 |
-| 18.12.        | Trekdinner - Weihnachtsfeier               |
+| 20.12.19      | Trekdinner - Weihnachtsfeier               |
+| 17.01.20      | Trekdinner                                 |
+| 21.02.20      | Trekdinner                                 |
+| 20.03.20      | Trekdinner                                 |
+| 17.04.20      | Trekdinner                                 |
+| 15.05.20      | Trekdinner                                 |
+| 29.-31.05.20  | Trekdinner auf Tour, Fedcon 2020           |
+| 19.06.20      | Trekdinner                                 |
+| 17.07.20      | Trekdinner                                 |
+| 01./02.08.20  | Trekdinner auf Tour, PA51, Kiel            |
+| 08./09.08.20  | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
+| 21.08.20      | Trekdinner                                 |
+| 05./06.09.20  | Trekdinner auf Tour, Botanika goes Space   |
+| 18.09.20      | Trekdinner                                 |
+| 16.10.20      | Trekdinner                                 |
+| 20.11.20      | Trekdinner                                 |
+| 18.12.20      | Trekdinner - Weihnachtsfeier               |
