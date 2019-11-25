@@ -27,4 +27,4 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 | 18.09.        | Trekdinner                                 |
 | 16.10.        | Trekdinner                                 |
 | 20.11.        | Trekdinner                                 |
-| 18.12.        | Trekdinner-Weihnachtsfeier                 |
+| 18.12.        | Trekdinner - Weihnachtsfeier               |
