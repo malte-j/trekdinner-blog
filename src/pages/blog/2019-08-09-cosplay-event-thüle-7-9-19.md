@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Cosplay-Event Thüle, 7.9.19'
 date: 2019-08-09T19:25:26.466Z
-featuredimage: /img/logo-cosplay-_002_.jpg
+featuredimage: /img/logo-cosplay-homepage.jpg
 ---
 ![Der Abschluss eines erfolgreichen Tages](/img/dsc05551.jpg "Im Wikingertor")
 
