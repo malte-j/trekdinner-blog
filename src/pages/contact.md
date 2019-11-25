@@ -9,12 +9,12 @@ map: >-
 ---
 Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über <mailto:trekdinner.oldenburg@gmail.com>.
 
-| Datum  | Anlass                                                                        |
-| ------ | ----------------------------------------------------------------------------- |
-| 16.08. | Trekdinner                                                                    |
-| 17.08. | [Botanika](https://www.botanika-bremen.de/) goes Space Bremen reloaded        |
-| 07.09. | [Tierpark Thüle](http://tier-freizeitpark.de/index.php) Cosplay Charity-Event |
-| 20.09. | Trekdinner                                                                    |
-| 18.10. | Trekdinner                                                                    |
-| 15.11. | Trekdinner                                                                    |
-| 20.12. | Trekdinner - Weihnachtsfeier                                                  |
+| Datum         | Anlass                       |
+| ------------- | ---------------------------- |
+| 20.12.        | Trekdinner - Weihnachtsfeier |
+| 17.01.        | Trekdinner                   |
+| 21.02.        | Trekdinner                   |
+| 20.03.        | Trekdinner                   |
+| 17.04.        | Trekdinner                   |
+| 15.05.        | Trekdinner                   |
+| 29.05.-01.06. | Trekdinner goes Fedcon       |
