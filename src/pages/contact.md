@@ -15,12 +15,12 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 | 17.01.20     | Trekdinner                                 |
 | 21.02.20     | Trekdinner                                 |
 | 20.03.20     | ABGESAGT                                   |
-| 17.04.20     |                                            |
+| 17.04.20     | ABGESAGT                                   |
 | 15.05.20     | ABGESAGT                                   |
-|              | Trekdinner auf Tour, Fedcon 2020           |
+| Verschoben   | Trekdinner auf Tour, Fedcon 2020           |
 | 19.06.20     | Trekdinner                                 |
 | 17.07.20     | Trekdinner                                 |
-| 01./02.08.20 | Trekdinner auf Tour, PA51, Kiel            |
+| Verschoben   | Trekdinner auf Tour, PA51, Kiel            |
 | 08./09.08.20 | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
 | 21.08.20     | Trekdinner                                 |
 | 05./06.09.20 | Trekdinner auf Tour, Botanika goes Space   |
