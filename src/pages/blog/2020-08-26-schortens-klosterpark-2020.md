@@ -10,7 +10,7 @@ Ein Sommertag der einfach zu schön war, um zu Hause zu hocken. Was macht man al
 
 ![... to seek out new life ...](/img/...-to-seek-out-new-life-....jpg "... to seek out new life ...")
 
-![... and new civilisations.](/img/...-and-new-zivilisations..jpg "... and new civilisations.")
+![... and new zivilisations.](/img/...-and-new-zivilisations..jpg "... and new zivilisations.")
 
 ![To boldly go where no one has gone before.](/img/to-boldly-go-where-no-one-has-gone-before..jpg "To boldly go where no one has gone before.")
 
