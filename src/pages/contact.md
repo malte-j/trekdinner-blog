@@ -9,22 +9,22 @@ map: >-
 ---
 Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über <mailto:trekdinner.oldenburg@gmail.com>.
 
-| Datum        | Anlass                                     |
-| ------------ | ------------------------------------------ |
-| 20.12.19     | Trekdinner - Weihnachtsfeier               |
-| 17.01.20     | Trekdinner                                 |
-| 21.02.20     | Trekdinner                                 |
-| 20.03.20     | Trekdinner ABGESAGT                        |
-| 17.04.20     | Trekdinner  ABGESAGT                       |
-| 15.05.20     | Trekdinner  ABGESAGT                       |
-| Verschoben   | Trekdinner auf Tour, Fedcon 2020           |
-| 19.06.20     | Trekdinner                                 |
-| 17.07.20     | Trekdinner                                 |
-| Verschoben   | Trekdinner auf Tour, PA51, Kiel            |
-| 08./09.08.20 | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
-| 21.08.20     | Trekdinner                                 |
-| Verschoben   | Trekdinner auf Tour, Botanika goes Space   |
-| 18.09.20     | Trekdinner                                 |
-| 16.10.20     | Trekdinner                                 |
-| 20.11.20     | Trekdinner                                 |
-| 18.12.20     | Trekdinner - Weihnachtsfeier               |
+| Datum      | Anlass                                     |
+| ---------- | ------------------------------------------ |
+| 20.12.19   | Trekdinner - Weihnachtsfeier               |
+| 17.01.20   | Trekdinner                                 |
+| 21.02.20   | Trekdinner                                 |
+| 20.03.20   | Trekdinner ABGESAGT                        |
+| 17.04.20   | Trekdinner  ABGESAGT                       |
+| 15.05.20   | Trekdinner  ABGESAGT                       |
+| Verschoben | Trekdinner auf Tour, Fedcon 2020           |
+| 19.06.20   | Trekdinner                                 |
+| 17.07.20   | Trekdinner                                 |
+| Verschoben | Trekdinner auf Tour, PA51, Kiel            |
+|            | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
+| 21.08.20   | Trekdinner                                 |
+| Verschoben | Trekdinner auf Tour, Botanika goes Space   |
+| 18.09.20   | Trekdinner                                 |
+| 16.10.20   | Trekdinner                                 |
+| 20.11.20   | Trekdinner                                 |
+| 18.12.20   | Trekdinner - Weihnachtsfeier               |
