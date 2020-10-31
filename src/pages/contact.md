@@ -9,22 +9,23 @@ map: >-
 ---
 Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über <mailto:trekdinner.oldenburg@gmail.com>.
 
-| Datum      | Anlass                                     |
-| ---------- | ------------------------------------------ |
-| 20.12.19   | Trekdinner - Weihnachtsfeier               |
-| 17.01.20   | Trekdinner                                 |
-| 21.02.20   | Trekdinner                                 |
-| 20.03.20   | Trekdinner ABGESAGT                        |
-| 17.04.20   | Trekdinner  ABGESAGT                       |
-| 15.05.20   | Trekdinner  ABGESAGT                       |
-| Verschoben | Trekdinner auf Tour, Fedcon 2020           |
-| 19.06.20   | Trekdinner                                 |
-| 17.07.20   | Trekdinner                                 |
-| Verschoben | Trekdinner auf Tour, PA51, Kiel            |
-|            | Trekdinner auf Tour, TFT Cosplay-Days 2020 |
-| 21.08.20   | Trekdinner                                 |
-| Verschoben | Trekdinner auf Tour, Botanika goes Space   |
-| 18.09.20   | Trekdinner                                 |
-| 16.10.20   | Trekdinner                                 |
-| 20.11.20   | Trekdinner                                 |
-| 18.12.20   | Trekdinner - Weihnachtsfeier               |
+| Datum        | Anlass                           |                 |
+| ------------ | -------------------------------- | --------------- |
+| 20.11.2020   | Trekdinner - ABGESAGT            |                 |
+| 18.12.2020   | Trekdinner - Weihnachtsfeier     |                 |
+| 15.01.21     | Trekdinner                       |                 |
+| 19.02.21     | Trekdinner                       |                 |
+| 19.03.21     | Trekdinner                       |                 |
+| 16.04.21     | Trekdinner                       |                 |
+| 21.-24.05.21 | Trekdinner auf Tour, Fedcon 2021 |                 |
+| 28.05.21     | Trekdinner                       |                 |
+| 18.06.21     | Trekdinner                       |                 |
+| 15.07.21     | Trekdinner                       |                 |
+| 31.07.21     | Trekdinner auf Tour, PA51, Kiel  | |     |
+| --- | |
+| 20.08.21     | Trekdinner                       |                 |
+| 04./05.09.21 | Trekdinner auf Tour, Botanika    |                 |
+| 17.09.20     | Trekdinner                       |                 |
+| 15.10.20     | Trekdinner                       |                 |
+| 29.11.20     | Trekdinner                       |                 |
+| 17.12.20     | Trekdinner - Weihnachtsfeier     |                 |
