@@ -13,7 +13,7 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 | ------------ | -------------------------------- | --- | --- |
 | 20.11.2020   | Trekdinner - ABGESAGT            |     |     |
 | 18.12.2020   | Trekdinner - ABGESAGT            |     |     |
-| 15.01.21     | Trekdinner                       |     |     |
+| 29.01.21     | Trekdinner - Online per Discord  |     |     |
 | 19.02.21     | Trekdinner                       |     |     |
 | 19.03.21     | Trekdinner                       |     |     |
 | 16.04.21     | Trekdinner                       |     |     |
@@ -25,7 +25,7 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 | \---         |                                  |     |     |
 | 20.08.21     | Trekdinner                       |     |     |
 | 04./05.09.21 | Trekdinner auf Tour, Botanika    |     |     |
-| 17.09.20     | Trekdinner                       |     |     |
-| 15.10.20     | Trekdinner                       |     |     |
-| 29.11.20     | Trekdinner                       |     |     |
-| 17.12.20     | Trekdinner - Weihnachtsfeier     |     |     |
+| 17.09.21     | Trekdinner                       |     |     |
+| 15.10.21     | Trekdinner                       |     |     |
+| 19.11.21     | Trekdinner                       |     |     |
+| 17.12.21     | Trekdinner - Weihnachtsfeier     |     |     |
