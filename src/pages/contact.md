@@ -14,7 +14,7 @@ Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hot
 | 20.11.2020   | Trekdinner - ABGESAGT            |     |     |
 | 18.12.2020   | Trekdinner - ABGESAGT            |     |     |
 | 29.01.21     | Trekdinner - Online per Discord  |     |     |
-| 19.02.21     | Trekdinner                       |     |     |
+| 19.02.21     | Trekdinner - Online per          |     |     |
 | 19.03.21     | Trekdinner                       |     |     |
 | 16.04.21     | Trekdinner                       |     |     |
 | 21.-24.05.21 | Trekdinner auf Tour, Fedcon 2021 |     |     |
