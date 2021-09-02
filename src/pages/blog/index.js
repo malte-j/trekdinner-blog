@@ -1,6 +1,7 @@
 import React from 'react';
 import { useStaticQuery, graphql, Link } from 'gatsby';
 import * as css from './index.module.scss';
+import "../../styles/layout.scss"
 import Img from 'gatsby-image';
 
 import Layout from '../../components/layout';
@@ -38,7 +39,7 @@ const Blog = () => {
   return (
     <Layout>
       <div>
-        <h1 className={css.title}>Captain's Log</h1>
+        <h1 className="pageTitle">Captain's Log</h1>
 
         <div className={css.posts}>
           {edges.map(({ node }) => (

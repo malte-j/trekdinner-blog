@@ -3,6 +3,8 @@ import * as css from './index.module.scss';
 
 import Button from '../button';
 import FindUsOnF from '../../../static/FindUsOnF.png';
+import { Link } from "gatsby"
+
 
 const currYear = new Date().getFullYear();
 
@@ -22,7 +24,7 @@ const Footer = ({ children }) => (
 
     <div className={css.content}>
       <p className={css.copyright}>© 2009 - {currYear} Trekdinner Oldenburg</p>
-
+      <Link to="/impressum">Impressum</Link>
       <Button
         externalLink
         type={['light']}

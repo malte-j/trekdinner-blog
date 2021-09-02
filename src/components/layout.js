@@ -17,6 +17,7 @@ const Layout = ({ children, nav, className }) => {
       }
     `
   );
+  
   return (
     <div className={className || ''}>
       <Helmet>

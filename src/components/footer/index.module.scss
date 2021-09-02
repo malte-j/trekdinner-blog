@@ -1,6 +1,6 @@
 @import '../../styles/colors.scss';
 .footer  {
-  background: $headerGradient;
+  background: linear-gradient(180deg, #1a212f 0%, #101113 100%);
   color: $light;
   
   font-size: 0.9em;
@@ -13,6 +13,11 @@
     align-items: center;
     justify-content: space-around;
     padding: 1em;
+
+    a {
+      color: $light;
+      text-decoration: none;
+    }
   }
 
   .wave {

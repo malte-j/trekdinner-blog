@@ -1,1 +1,11 @@
 $desktopMaxWidth: 800px;
+
+.pageTitle {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.section {
+  max-width: $desktopMaxWidth;
+  margin: 3rem auto;
+}

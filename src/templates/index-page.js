@@ -35,12 +35,12 @@ const IndexPage = ({ data }) => {
         </svg>
       </header>
 
-      <section className={css.about}>
+      <section>
         <h1>{fm.about.heading}</h1>
         <p>{fm.about.description}</p>
       </section>
 
-      <section className={css.log}>
+      <section>
         <h1>{fm.postsName}</h1>
       </section>
 
