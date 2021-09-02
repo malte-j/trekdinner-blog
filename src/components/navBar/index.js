@@ -1,22 +1,21 @@
-import React from "react"
-import { Link } from 'gatsby'
-import * as css from "./index.module.scss"
+import React from 'react';
+import { Link } from 'gatsby';
+import * as css from './index.module.scss';
 
 const Navbar = class extends React.Component {
-  
   constructor(props) {
-    super(props)
-    let currentClass = (props.chameleon ? css.navbarChameleon : '')
+    super(props);
+    let currentClass = props.chameleon ? css.navbarChameleon : '';
     this.state = {
       currentClass,
       active: false,
       onScrollClass: css.navbarActive,
-    }
+    };
   }
-  
+
   componentDidMount() {
-    if(this.props.chameleon) {
-      window.addEventListener('scroll', this.handleScroll)
+    if (this.props.chameleon) {
+      window.addEventListener('scroll', this.handleScroll);
     }
   }
 
@@ -25,32 +24,31 @@ const Navbar = class extends React.Component {
       window.removeEventListener('scroll', this.handleScroll);
     }
   }
-  handleScroll = e => {
+  handleScroll = (e) => {
     if (!this.state.active && window.scrollY > 0) {
       this.setState({
         currentClass: `${this.state.onScrollClass} ${css.navbarChameleon}`,
         active: true,
-      })
-    } else if (this.state.active & window.scrollY === 0){
+      });
+    } else if (this.state.active & (window.scrollY === 0)) {
       this.setState({
         currentClass: css.navbarChameleon,
-        active: false
-      })
+        active: false,
+      });
     }
-  }
-
+  };
 
   render() {
     return (
       <nav className={`${css.navbar} ${this.state.currentClass}`}>
-          <div className={css.wrapper}>
-            <Link to="/">Home</Link>
-            <Link to="/blog">Captain's Log</Link>
-            <Link to="/contact">Kontakt</Link>
-          </div>
+        <div className={css.wrapper}>
+          <Link to="/">Home</Link>
+          <Link to="/blog">Captain's Log</Link>
+          <Link to="/contact">Kontakt</Link>
+        </div>
       </nav>
-    )
+    );
   }
-}
+};
 
-export default Navbar
+export default Navbar;

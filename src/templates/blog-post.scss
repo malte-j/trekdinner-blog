@@ -29,8 +29,17 @@
 
 section {
   margin-top: 0;
+
+  p {
+    line-height: 1.6;
+  }
+
+  a {
+    color: #104ca6;
+    text-decoration: none;
+  }
 }
 
-section  p + p {
-  margin-top: 1em;
+section p + p {
+  margin-top: 1.4em;
 }

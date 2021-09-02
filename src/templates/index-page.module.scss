@@ -1,0 +1,43 @@
+@import "../styles/colors.scss";
+@import "../styles/layout.scss";
+
+.index {
+	header {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		background: $headerGradient;
+	
+		height: 80vh;
+		margin-bottom: 2em;
+	
+		.logo {
+			width: auto;
+			height: 30vh;
+			max-height: 80vw;
+		}
+	
+		.wave {
+			align-self: flex-start;
+			align-self: stretch;
+		}
+	}
+	
+	h1 {
+		text-align: center;
+		font-size: 2.2rem;
+		font-weight: 700;
+		margin: 6rem 0 1.5rem 0;
+	}
+
+	section {
+		max-width: $desktopMaxWidth;
+		padding: 0 1.25em;
+		margin: 0 auto;
+	
+		> * + * {
+			margin-top: 1rem;
+		}
+	}
+}
