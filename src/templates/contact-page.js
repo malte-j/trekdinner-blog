@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-export default ({data}) => (
+const ContactPage = ({data}) => (
   <Layout>
 
     <section>
@@ -29,3 +29,5 @@ query {
   }
 }
 `
+
+export default ContactPage;

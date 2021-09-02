@@ -1,11 +1,11 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import css from "./index.module.scss"
+import * as css from "./index.module.scss"
 import Img from "gatsby-image"
 
 import Layout from "../../components/layout"
 
-export default () => {
+const Blog = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
@@ -59,3 +59,5 @@ export default () => {
     </Layout>
   )
 }
+
+export default Blog;

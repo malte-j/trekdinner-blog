@@ -1,9 +1,9 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import css from "./index.module.scss"
+import * as css from "./index.module.scss"
 import Img from "gatsby-image"
 
-export default () => {
+const BlogPreview = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
@@ -49,3 +49,5 @@ export default () => {
     </div>
   )
 }
+
+export default BlogPreview;

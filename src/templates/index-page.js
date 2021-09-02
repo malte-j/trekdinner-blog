@@ -8,7 +8,7 @@ import logo from "../../static/logo.svg"
 import Button from "../components/button"
 import BlogPreview from "../components/blogPreview"
 
-export default ({ data }) => {
+const IndexPage = ({ data }) => {
   const fm = data.markdownRemark.frontmatter
   return (
   <Layout nav={{chameleon: true}}>
@@ -56,3 +56,5 @@ query {
   }
 }
 `
+
+export default IndexPage;

@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from 'gatsby'
-import css from "./index.module.scss"
+import * as css from "./index.module.scss"
 
 const Navbar = class extends React.Component {
   

@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import NavBar from "./navBar"
 import Footer from "../components/footer"
 
-export default ({ children, nav }) => {
+const Layout = ({ children, nav }) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -41,3 +41,5 @@ export default ({ children, nav }) => {
     </div>
   )
 }
+
+export default Layout;
