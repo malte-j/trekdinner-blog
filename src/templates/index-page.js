@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout className={css.index} nav={{ chameleon: true }}>
-      <header className={css.header}>
+      <header>
         <div className={css.placeholder}></div>
 
         <img className={css.logo} src={logo} alt="Trekdinner Oldenburg" />
