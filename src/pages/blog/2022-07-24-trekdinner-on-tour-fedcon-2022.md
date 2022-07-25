@@ -10,6 +10,8 @@ Auch 2022 sind wir wieder im Außeneinsatz auf der Fedcon unterwegs. Das Foto vo
 
 ![](/img/img_1443.jpg)
 
+Nico mit Rike als Kira Nerys, einem Ihrer wundervollen Cosplays. Mehr von Ihr könnt ihr unter <https://www.instagram.com/nerys.creations/> sehen. Schaut mal rein, es lohnt sich.
+
 ![](/img/marlies-und-clara-in-mm.jpeg "Two Generations")
 
 ![](/img/img_1439.jpg)
