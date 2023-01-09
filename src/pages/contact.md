@@ -8,20 +8,19 @@ map: <iframe
 ---
 Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg. Bei Fragen erreichst Du uns über [trekdinner.oldenburg@gmail.com](mailto:trekdinner.oldenburg@gmail.com).
 
-| Datum        | Anlass                                     |
-| ------------ | ------------------------------------------ |
-| 21.01.22     | Trekdinner                                 |
-| 18.02.22     | Trekdinner                                 |
-| 18.03.22     | Trekdinner                                 |
-| 15.04.22     | Trekdinner                                 |
-| 20.05.22     | Trekdinner                                 |
-| 03.-05.06.22 | Trekdinner auf Tour, Fedcon 2022           |
-| 17.06.22     | Trekdinner                                 |
-| 16.0+17.7.22 | Trekdinner auf Tour, Project Area 51, Kiel |
-| 22.07.22     | Trekdinner                                 |
-| 18.08.22     | Trekdinner                                 |
-| 03.+04.09.22 | Trekdinner auf Tour, Botanika goes Space, Bremen |
-| 16.09.22     | Trekdinner                                 |
-| 21.10.22     | Trekdinner                                 |
-| 18.11.22     | Trekdinner                                 |
-| 16.12.22     | Weihnachts-Trekdinner                      |
+| Datum          | Anlass                                           |
+| -------------- | ------------------------------------------------ |
+| 20.01.23       | Trekdinner                                       |
+| 17.02.23       | Trekdinner                                       |
+| 17.03.23       | Trekdinner                                       |
+| 21.04.23       | Trekdinner                                       |
+| 19.05.23       | Trekdinner                                       |
+| 26. - 28.05.23 | Trekdinner auf Tour, Fedcon 2023                 |
+| 16.06.23       | Trekdinner                                       |
+| 21.07.23       | Trekdinner                                       |
+| 18.08.23       | Trekdinner                                       |
+| 02. + 03.09.23 | Trekdinner auf Tour, Botanika goes space, Bremen |
+| 15.09.23       | Trekdinner                                       |
+| 20.10.23       | Trekdinner                                       |
+| 17.11.23       | Trekdinner                                       |
+| 15.12.23       | Weihnachts-Trekdinner                            |
