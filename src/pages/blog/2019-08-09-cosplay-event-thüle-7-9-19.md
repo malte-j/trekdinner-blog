@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Cosplay-Event Thüle, 7.9.19'
+title: Cosplay-Event Thüle, 7.9.19
 date: 2019-08-09T19:25:26.466Z
 featuredimage: /img/logo-cosplay-homepage.jpg
 ---
@@ -11,5 +11,3 @@ Dieses Mal sammeln wir mit dem [Tier- und Freizeitpark Thüle](http://tier-freiz
 ![Uniting the Stars, ein Ziel verbindet!](/img/dsc05520.jpg "Gemeinsam sind wir stark!")
 
 ![Die Macht ist immer ein starker Verbündeter](/img/dsc05536.jpg)
-
-Das gesamte Album findet Ihr [hier](https://drive.google.com/open?id=1VSrRSKET_IjQvB1ZfCG4ci3DWMxApUmv)
