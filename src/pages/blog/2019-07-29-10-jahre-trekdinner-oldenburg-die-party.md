@@ -15,5 +15,3 @@ featuredimage: /img/trekdinner-oldenburg.jpg
 ![Für die Tabaluga-Stiftung](/img/tabaluga-stiftung.jpg "Für den guten Zweck 2")
 
 ![Eine große Gemeinschaft](/img/gäste-und-gastgeber-2-.jpg "Gäste und Gastgeber")
-
-Das gesamte Album findet ihr [hier](https://drive.google.com/open?id=1gCrigDO5oxt_IvrvaGW1DYNvS3cQVoWL).
