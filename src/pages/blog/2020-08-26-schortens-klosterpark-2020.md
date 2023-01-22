@@ -13,5 +13,3 @@ Ein Sommertag der einfach zu schön war, um zu Hause zu hocken. Was macht man al
 ![... and new zivilisations.](/img/new-zivilisations.jpg)
 
 ![To boldly go where no one has gone before.](/img/to-boldly-go-where-no-one-has-gone-before..jpg "To boldly go where no one has gone before.")
-
-Das ganze Album findet ihr [hier](https://drive.google.com/drive/u/2/folders/1tJXfKfYFz7-FlQ_5laN7q-rdIcJDPb47)
