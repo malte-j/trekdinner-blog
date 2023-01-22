@@ -44,7 +44,7 @@ const Navbar = class extends React.Component {
         <div className={css.wrapper}>
           <Link to="/">Home</Link>
           <Link to="/blog">Captain's Log</Link>
-          <Link to="/contact">Kontakt</Link>
+          <Link to="/contact">Kontakt & Termine</Link>
         </div>
       </nav>
     );

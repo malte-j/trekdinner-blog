@@ -11,14 +11,14 @@ const ContactPage = ({ data }) => (
       <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}></div>
     </section>
 
-    <section className="section">
+    {/* <section className="section">
       <div
         style={{ height: '60vh' }}
         dangerouslySetInnerHTML={{
           __html: data.markdownRemark.frontmatter.map,
         }}
       ></div>
-    </section>
+    </section> */}
   </Layout>
 );
 
