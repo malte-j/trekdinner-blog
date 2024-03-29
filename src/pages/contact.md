@@ -6,24 +6,23 @@ map: <iframe
   width="100%" height="100%" frameborder="0" style="border:0"
   allowfullscreen></iframe>
 ---
-
-Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr im [Best-Western-Hotel Heide](https://www.hotel-heide-oldenburg.de/), Melkbrink 47, 26121 Oldenburg.
+Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr in der urBar des BTB Oldenburg, Alexanderstraße 107, Oldenburg
 
 Wenn du vorbeischauen möchtest oder noch fragen hast, erreichst du uns über [trekdinner.oldenburg@gmail.com](mailto:trekdinner.oldenburg@gmail.com).
 
-| Datum          | Anlass                                           |
-| -------------- | ------------------------------------------------ |
-| 20.01.23       | Trekdinner                                       |
-| 17.02.23       | Trekdinner                                       |
-| 17.03.23       | Trekdinner                                       |
-| 21.04.23       | Trekdinner                                       |
-| 19.05.23       | Trekdinner                                       |
-| 26. - 28.05.23 | Trekdinner auf Tour, Fedcon 2023                 |
-| 16.06.23       | Trekdinner                                       |
-| 21.07.23       | Trekdinner                                       |
-| 18.08.23       | Trekdinner                                       |
-| 02. + 03.09.23 | Trekdinner auf Tour, Botanika goes space, Bremen |
-| 15.09.23       | Trekdinner                                       |
-| 20.10.23       | Trekdinner                                       |
-| 17.11.23       | Trekdinner                                       |
-| 15.12.23       | Weihnachts-Trekdinner                            |
+| Datum            | Anlass                                           |
+| ---------------- | ------------------------------------------------ |
+| 1﻿9.01.24        | Trekdinner                                       |
+| 1﻿6.02.24        | Trekdinner                                       |
+| 15.03.24         | Trekdinner                                       |
+| 19.04.24         | Trekdinner                                       |
+| 10.-12.05.24     | Trekdinner auf Tour, Fedcon 2024                 |
+| 1﻿7.05.24        | Trekdinner                                       |
+| 21.06.24         | Trekdinner                                       |
+| 1﻿9./24.07.24    | 1﻿5 Jahre Trekdinner Oldenburg                   |
+| 16.08.42         | Trekdinner                                       |
+| 3﻿1.08.-01.09.24 | Trekdinner auf Tour, Botanika goes space, Bremen |
+| 20.09.24         | Trekdinner                                       |
+| 18.10.24         | Trekdinner                                       |
+| 1﻿5.11.24        | Trekdinner                                       |
+| 20.12.24         | Weihnachts-Trekdinner                            |
