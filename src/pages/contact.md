@@ -6,23 +6,25 @@ map: <iframe
   width="100%" height="100%" frameborder="0" style="border:0"
   allowfullscreen></iframe>
 ---
-Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr in der urBar des BTB Oldenburg, Alexanderstraße 107, Oldenburg
+Wir treffen uns jeden dritten Freitag im Monat ab 19:30 Uhr in der "urBar" des BTB Oldenburg, Alexanderstraße 207, Oldenburg
 
 Wenn du vorbeischauen möchtest oder noch fragen hast, erreichst du uns über [trekdinner.oldenburg@gmail.com](mailto:trekdinner.oldenburg@gmail.com).
 
-| Datum            | Anlass                                                 |
-| ---------------- | ------------------------------------------------------ |
-| 1﻿9.01.24        | Trekdinner                                             |
-| 1﻿6.02.24        | Trekdinner                                             |
-| 15.03.24         | Trekdinner                                             |
-| 19.04.24         | Trekdinner                                             |
-| 10.-12.05.24     | Trekdinner auf Tour, Fedcon 2024                       |
-| 1﻿7.05.24        | Trekdinner                                             |
-| 21.06.24         | Trekdinner                                             |
-| 2﻿7.07.24        | 1﻿5 Jahre Trekdinner Oldenburg (interne Veranstaltung) |
-| 16.08.42         | Trekdinner                                             |
-| 3﻿1.08.-01.09.24 | Trekdinner auf Tour, Botanika goes space, Bremen       |
-| 20.09.24         | Trekdinner                                             |
-| 18.10.24         | Trekdinner                                             |
-| 1﻿5.11.24        | Trekdinner                                             |
-| 20.12.24         | Weihnachts-Trekdinner                                  |
+| Datum              | Anlass                                           |
+| ------------------ | ------------------------------------------------ |
+| 1﻿7.01.25           | Trekdinner - Enterprise Day                      |
+| 0﻿8.02.25           | Trekdinner - Kinoevent in Zetel                  |
+| 2﻿1.02.25           | Trekdinner                                       |
+| 2﻿1.03.25           | Trekdinner                                       |
+| 1﻿8.04.25           | Trekdinner                                       |
+| 1﻿6.05.25           | Trekdinner                                       |
+| 3﻿0.05. - 01.06.25  | Trekdinner on tour, Fedcon Bonn                  |
+| 2﻿0.06.25           | Trekdinner                                       |
+| 19.07.25           | Trekdinner - Grillevent (in Planung)             |
+| 1﻿5.08.25           | Trekdinner                                       |
+| 0﻿6.-07.09.25       | Trekdinner auf Tour, Botanika goes space, Bremen |
+| 1﻿9.09.25           | Trekdinner                                       |
+| 17.10.25           | Trekdinner                                       |
+| 2﻿1.11.25           | Trekdinner                                       |
+| 19.12.25           | Weihnachts-Trekdinner                            |
+|﻿
