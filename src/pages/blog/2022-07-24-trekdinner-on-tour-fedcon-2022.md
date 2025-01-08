@@ -6,7 +6,7 @@ featuredimage: /img/fedcon-2022.jpg
 ---
 Auch 2022 sind wir wieder im Außeneinsatz auf der Fedcon unterwegs. Das Foto vor dem Hüter der Ewigkeit gehört natürlich dazu. Vielen Dank [](https://www.andreas-kinder.de/)an Andreas Kinder (<https://www.andreas-kinder.de/>) für das Foto.
 
-![](/img/antje-heiko.jpg "Star Trek Fans DE-Andmina Antje und Heiko")
+![](/img/20220604_164631.jpg "Star Trek Fans DE-Admina Antje und Heiko")
 
 ![](/img/img_1443.jpg)
 
@@ -18,6 +18,6 @@ Nico mit Rike als Kira Nerys, einem Ihrer wundervollen Cosplays. Mehr von Ihr k�
 
 ![](/img/star-trek-fans-de.jpg "Mitglieder der Star Trek Fans DE - Facebook-Gruppe")
 
-![](/img/heiko-3inchcosplay.jpg "Wo die Sternenflotte ist sind die Klingonen nicht weit. 3inchcosplay und Heiko")
+![](/img/2022-gruppenfoto-hügel.jpg "Eine große Familie - Fotograf - Andreas Kinder")
 
 ![](/img/abschlussfoto-mit-freunden.jpg "Abschlussfoto mit Freunden")
